@@ -1,2 +1,1 @@
-# Tin-dog-sales-page
-Dog sales page 
+TinDog Starting Files
